@@ -1,5 +1,5 @@
 export default {
-  "ai-agents": [
+  "developer-tools": [
     {
       type: "category",
       collapsible: false,
@@ -48,8 +48,8 @@ export default {
           type: "doc",
           id: "pyairbyte-mcp/README",
           label: "PyAirbyte MCP",
-        }
-      ]
-    }
+        },
+      ],
+    },
   ],
 };
